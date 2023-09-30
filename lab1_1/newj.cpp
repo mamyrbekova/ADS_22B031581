@@ -62,7 +62,12 @@ int main() {
         {
             dq.push_back(n);
         }
+
+
+        
     }
 
     return 0;
 }
+
+// run id = 9740
