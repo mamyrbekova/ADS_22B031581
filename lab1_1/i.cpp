@@ -31,6 +31,7 @@ int main() {
             q2.push_back(second + n);
         }
     }
+    // run id = 2596
 
     if(!q1.empty()){
         cout << "KATSURAGI";
