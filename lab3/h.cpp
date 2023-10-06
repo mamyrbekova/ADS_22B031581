@@ -35,3 +35,4 @@ int main() {
         cout << ssearch(block, target, n) + 1 << "\n";
     }
 }
+//run id = 2563
